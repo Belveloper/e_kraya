@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957658820624",
+    "project_id": "e-kraya",
+    "storage_bucket": "e-kraya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957658820624:android:8887dd8b7a257c1b2a1a95",
+        "android_client_info": {
+          "package_name": "com.aacompany.e_kraya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957658820624-a96kvpsmbt10lrr2r3lbstfh7mej36qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FujsEc1cXgJKtzoFvkiGSA8EgndJksM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957658820624-a96kvpsmbt10lrr2r3lbstfh7mej36qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

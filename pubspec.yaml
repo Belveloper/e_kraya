@@ -1,0 +1,56 @@
+name: e_kraya
+description: A new Flutter application.
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.1
+  firebase_auth:
+  cloud_firestore:
+  firebase_core:
+  loading_overlay:
+  file_picker:
+  url_launcher :
+  firebase_storage:
+  firebase_database:
+  focused_menu:
+  share:
+  fluttertoast:
+  shared_preferences:
+  flutter_onboarding_screen:
+  firestore_search:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+
+
+
+
+
+# The following section is specific to Flutter.
+flutter:
+  fonts:
+    - family: Righteous
+      fonts:
+        - asset: fonts/Righteous-Regular.ttf
+
+  assets:
+    - assets/
+
+  uses-material-design: true
+
